@@ -5,9 +5,13 @@
     {% include head.html %}
 </head>
 
-<body class="antialiased text-gray-900 min-h-screen">
-    <main class="mb-auto">
-        {{ content }}
+<body class="antialiased text-gray-900 min-h-screen bg-secondary-dark font-serif">
+    {% include header.html %}
+
+    <main class="mb-auto px-5 pt-4 pb-20">
+        <div class="max-w-sm sm:max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
+            {{ content }}
+        </div>
     </main>
 </body>
 

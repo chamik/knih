@@ -4,7 +4,7 @@
     "description": "Basic Jekyll site template using Tailwind CSS with PostCSS",
     "scripts": {
         "setup": "gem install bundler && bundle install && npm ci",
-        "start": "jekyll serve --livereload",
+        "start": "bundler exec jekyll serve --livereload",
         "build": "bundler exec jekyll build -d build/ && npx tailwindcss -i build/styles/main.css -o build/styles/main.css --minify"
     },
     "devDependencies": {
@@ -14,5 +14,8 @@
         "postcss-cli": "^9.1.0",
         "postcss-import": "^14.0.2",
         "tailwindcss": "^3.0.18"
+    },
+    "dependencies": {
+        "waterfall.js": "^1.0.2"
     }
 }

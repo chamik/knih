@@ -1,24 +1,44 @@
 ---
 layout: default
+title: Kubíkovo
 ---
 
-<div class="grid md:grid-flow-col-dense md:grid-rows-2 gap-6 py-6">
+<div class="waterfall">
     {% for post in site.posts %}
-    <article class="flex flex-col py-6 h-fit item w-full">
+    <article class="item flex flex-col py-6 h-fit w-full md:w-1/2 pl-4 pr-6 -mx-2" id="{{post.title | escape}}-{{post.author | escape}}">
         <div class="flex flex-row mb-3">
-            <h2 class="text-2xl text-brown my-auto mr-6">{{post.title}}</h2>
-            <div class="flex flex-col justify-self-end mx-auto my-auto">
-                <h4 class="text-base text-brown leading-tight">{{post.author}}</h4>
-                <h5 class="text-secondary">{{post.genre}}</h5>
+            <div class="flex flex-col mr-6 my-auto">
+                <a href="#{{post.title | escape}}-{{post.author | escape}}">
+                    <h2 class="text-2xl text-brown underline underline-offset-4">{{post.title}}</h2>
+                </a>
+                <h5 class="text-gray-500 text-lg">{{post.author}}</h5>
             </div>
         </div>
         <div class="prose text-pale">
             {{post.content}}
         </div>
+        <div class="flex flex-row flex-wrap mt-1">
+            <div class="pr-1 -ml-1 flex flex-row">
+                {% for tag in post.tags %}
+                    <p class="text-gray-500 px-1 whitespace-nowrap">{{tag}}</p>
+                {% endfor %}
+            </div>
+
+            <p class="text-gray-500 px-2 whitespace-nowrap">{{post.pages}} stran</p>
+            <a href="https://www.databazeknih.cz/{{post.dklink}}" target="_blank">
+                <p class="text-gray-500 px-2 underline whitespace-nowrap">Databáze knih</p>
+            </a>
+        </div>
     </article>
     {% endfor %}
 </div>
 
-<!-- <script>
-    waterfall('.grid');
-</script> -->
+<script>
+    window.addEventListener('resize', (event) => waterfall('.waterfall'));
+
+    // For some reason, this has to be called twice to work on load? idk i'm confused
+    window.addEventListener('load', (event) => {
+        waterfall('.waterfall');
+        waterfall('.waterfall');
+    });
+</script>

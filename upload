@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rsync -azP build/* root@chamik.eu:/srv/www/knih.chamik.eu

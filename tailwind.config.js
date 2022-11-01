@@ -10,14 +10,14 @@ module.exports = {
         extend: {
             fontFamily: {
                 'serif': ['Lora', 'serif']
+            },
+            colors: {
+                'pale': '#DCD7C9',
+                'brown': '#A27B5C',
+                'secondary': '#3F4E4F',
+                'secondary-dark': '#2C3639'
             }
         },
-        colors: {
-            'pale': '#DCD7C9',
-            'brown': '#A27B5C',
-            'secondary': '#3F4E4F',
-            'secondary-dark': '#2C3639'
-        }
     },
     variants: {
         extend: {},

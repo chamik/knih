@@ -1,12 +1,13 @@
 # This is the basic info about your site. Definitely change this.
-title: Jekyll Tailwind Template
-description: Basic Jekyll site template using Tailwind CSS with PostCSS
-author: Kvído Potápník
+title: Knih
+author: chamik
+author_realname: Jakub Hampl
+type: Person
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+description: Krátké úvahy a recenze knih
 
-# This template comes with the SEO tag plugin preinstalled. To get the most out of it, check out the configuration manual:
-# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+url: "https://knih.chamik.eu" # the base hostname & protocol for your site, e.g. https://example.com
+timezone: Europe/Prague
 
 plugins:
   - jekyll-seo-tag

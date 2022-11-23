@@ -1,6 +1,6 @@
 ---
 title: 
-author: 
+bookauthor: 
 tags: 
 dklink: 
 pages: 

@@ -1,6 +1,6 @@
 ---
 title: Spasitel
-author: Andy Weir
+bookauthor: Andy Weir
 tags: sci-fi
 dklink: knihy/spasitel-476966
 pages: 464

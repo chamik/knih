@@ -1,6 +1,6 @@
 ---
 title: 451 Stupňů Fahrenheita
-author: Ray Bradbury
+bookauthor: Ray Bradbury
 tags: sci-fi
 dklink: knihy/451-stupnu-fahrenheita-5192
 pages: 160

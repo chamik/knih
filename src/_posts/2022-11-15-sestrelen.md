@@ -1,6 +1,6 @@
 ---
 title: Sestřelen 
-author: František Fajtl
+bookauthor: František Fajtl
 tags: válečné
 dklink: knihy/sestrelen-88302
 pages: 272

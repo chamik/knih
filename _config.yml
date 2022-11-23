@@ -13,6 +13,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-postcss
+  - jekyll-feed
 
 # Unless you know what are you doing, you probably don't want to change anything below this line
 

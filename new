@@ -1,4 +1,0 @@
-#!/bin/bash
-DATE=$(date "+%Y-%m-%d")
-NAME="$DATE-$1.md"
-cp src/_drafts/template.md src/_posts/$NAME

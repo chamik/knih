@@ -28,9 +28,11 @@ title: Kubíkovo
             </div>
 
             <p class="text-gray-500 px-2 whitespace-nowrap">{{post.pages}} stran</p>
+            {% if post.dklink %}
             <a href="https://www.databazeknih.cz/{{post.dklink}}" target="_blank">
                 <p class="text-gray-500 px-2 underline whitespace-nowrap">Databáze knih</p>
             </a>
+            {% endif %}
         </div>
         <!-- <p class="text-gray-500 text-sm">{{post.date | date: "%d. %m. %Y"}}</p> -->
     </article>

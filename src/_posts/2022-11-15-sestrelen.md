@@ -1,4 +1,5 @@
 ---
+layout: review
 title: Sestřelen 
 bookauthor: František Fajtl
 tags: válečné

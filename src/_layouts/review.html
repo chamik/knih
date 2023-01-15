@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="flex flex-col pt-10">
+    <div class="flex flex-col">
+        <h2 class="text-5xl text-brown font-extrabold">{{page.title}}</h2>
+
+        <div class="flex flew-row justify-between">
+            <h3 class="text-2xl text-gray-500 font-bold">{{page.bookauthor}}</h3>
+            <p class="text-xl text-gray-500">{{page.date | date: "%d. %m. %Y"}}</p>
+        </div>
+    </div>
+
+    <article class="prose prose-xl min-w-full prose-headings:mb-5 prose-hr:my-7 prose-p:my-3 prose-blockquote:my-5 prose-a:underline-offset-4 prose-li:my-2 text-pale pt-4">
+        {{content}}
+    </article>
+
+    <hr class="border-gray-500 mt-8">
+
+    <div class="flex flex-row flex-wrap mt-4 text-lg">
+        <div class="pr-1 -ml-1 flex flex-row">
+            {% for tag in page.tags %}
+                <p class="text-gray-500 px-1 whitespace-nowrap">{{tag}}</p>
+            {% endfor %}
+        </div>
+
+        <p class="text-gray-500 px-2 whitespace-nowrap">{{page.pages}} stran</p>
+        {% if page.dklink %}
+        <a href="https://www.databazeknih.cz/{{post.dklink}}" target="_blank">
+            <p class="text-gray-500 px-2 underline whitespace-nowrap">Databáze knih</p>
+        </a>
+        {% endif %}
+    </div>
+</div>

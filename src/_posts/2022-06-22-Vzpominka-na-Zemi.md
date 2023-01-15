@@ -1,4 +1,5 @@
 ---
+layout: review
 title: Vzpomínka na Zemi
 bookauthor: Liou Cch'-Sin
 tags: sci-fi trilogie

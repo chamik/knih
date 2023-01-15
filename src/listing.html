@@ -3,6 +3,15 @@ layout: default
 title: Seznam knih
 ---
 
-{% for post in site.posts %}
-{{post.title}}
+{% assign byYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year in byYear %}
+    <h2 class="text-5xl font-bold text-brown pb-4">{{ year.name }}</h1>
+    <div class="pb-8">
+        {% for post in year.items %}
+            <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline">{{post.title}}</a> od {{post.bookauthor}}</p>
+        {% endfor %}    
+    </div>
+<ul>
+</ul>
 {% endfor %}

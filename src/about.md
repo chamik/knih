@@ -23,3 +23,5 @@ Moji hlavní stránku můžete nalézt na [chamik.eu](https://chamik.eu){:target
 {% endfor %}
 
 Dohromady jsem něco málo napsal o {{bookcounter}} knihách ({{pagecounter}} stránkách).
+
+Zdroj stránky nalezneš na mém [Githubu](https://github.com/chamik/knih).

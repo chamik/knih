@@ -4,7 +4,8 @@ title: Kubíkovo
 ---
 
 <div class="waterfall">
-    {% for post in site.posts %}
+    {% assign frontpage = site.posts | slice: 0, 12 %}
+    {% for post in frontpage %}
     <article class="item flex flex-col py-6 h-fit w-full md:w-1/2 pr-5" id="{{post.title | escape}}-{{post.bookauthor | escape}}">
         <div class="flex flex-row mb-3">
             <div class="flex flex-col mr-6 my-auto w-full">
@@ -33,6 +34,9 @@ title: Kubíkovo
     </article>
     {% endfor %}
 </div>
+
+<hr class="border-[#3D4244] my-5">
+<p class="text-center"><a href="/listing" class="text-pale underline">číst dál...</a></p>
 
 <script>
     window.addEventListener('resize', (event) => waterfall('.waterfall'));

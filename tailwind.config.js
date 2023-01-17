@@ -15,7 +15,7 @@ module.exports = {
                 'pale': '#DCD7C9',
                 'brown': '#A27B5C',
                 'secondary': '#3F4E4F',
-                'secondary-dark': '#2C3639'
+                'secondary-dark': '#2C3639',
             }
         },
     },

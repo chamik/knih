@@ -3,6 +3,7 @@ layout: review
 title: Věk supernovy
 bookauthor: Liou Cch'-Sin
 tags: sci-fi
+dklink: knihy/vek-supernovy-447844
 pages: 450
 books: 1
 ---

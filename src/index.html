@@ -4,7 +4,7 @@ title: Kubíkovo
 ---
 
 <div class="waterfall">
-    {% assign frontpage = site.posts | slice: 0, 12 %}
+    {% assign frontpage = site.posts | slice: 0, 10 %}
     {% for post in frontpage %}
     <article class="item flex flex-col py-6 h-fit w-full md:w-1/2 pr-5" id="{{post.title | escape}}-{{post.bookauthor | escape}}">
         <div class="flex flex-row mb-3">
@@ -14,7 +14,6 @@ title: Kubíkovo
                 </a>
                 <div class="flex flex-row justify-between hover:transition-all group">
                     <h5 class="text-[#9E9589] text-lg">{{post.bookauthor}}</h5>
-                    <p class="text-[#9E9589] text-sm my-auto opacity-0 group-hover:opacity-100 ease-in-out duration-300">{{post.date | date: "%d. %m. %Y"}}</p>
                 </div>
             </div>
         </div>

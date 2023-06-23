@@ -18,17 +18,17 @@ layout: default
 
     <hr class="border-[#3D4244] mt-8">
 
-    <div class="flex flex-row flex-wrap mt-4 text-lg">
-        <div class="pr-4 -ml-1 flex flex-row">
+    <div class="flex flex-row justify-between flex-wrap mt-4 text-lg">
+        <div class="flex flex-row">
             {% for tag in page.tags %}
-                <p class="text-gray-500 px-2 whitespace-nowrap">{{tag}}</p>
+                <p class="text-gray-500 pr-4 whitespace-nowrap">{{tag}}</p>
             {% endfor %}
         </div>
 
-        <p class="text-gray-500 px-4 whitespace-nowrap">{{page.pages}} stran</p>
+        <p class="text-gray-500 whitespace-nowrap">{{page.pages}} stran</p>
         {% if page.dklink %}
         <a href="https://www.databazeknih.cz/{{page.dklink}}" target="_blank">
-            <p class="text-gray-500 px-4 underline whitespace-nowrap">Databáze knih</p>
+            <p class="text-gray-500 underline whitespace-nowrap">Databáze knih</p>
         </a>
         {% endif %}
     </div>

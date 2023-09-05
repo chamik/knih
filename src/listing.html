@@ -6,12 +6,16 @@ title: Seznam knih
 {% assign byYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 {% for year in byYear %}
-    <h2 class="text-5xl font-bold text-brown pb-4">{{ year.name }}</h1>
-    <div class="pb-8">
-        {% for post in year.items %}
-            <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline">{{post.title}}</a> od {{post.bookauthor}}</p>
-        {% endfor %}    
-    </div>
+    <h2 class="text-5xl font-bold text-brown mb-4">{{ year.name }}</h1>
+    {% assign byMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
+    {% for month in byMonth %}
+        <h3 class="text-xl font-bold text-brown mb-1">{{ month.name }}</h1>
+        <div class="pb-8">
+            {% for post in month.items %}
+                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline">{{post.title}}</a> od {{post.bookauthor}}</p>
+            {% endfor %}    
+        </div>
+    {% endfor %}
 <ul>
 </ul>
 {% endfor %}

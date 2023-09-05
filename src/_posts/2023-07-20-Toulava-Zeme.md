@@ -8,4 +8,4 @@ pages: 380
 books: 1
 ---
 
-Po zklamání z [povídek C. J. Tudor](/2022/07/06/Skvira/) mi tahle kniha spravila náladu. Příběhy jsou různorodé, ale všechny je spojují vyhlídky budoucnosti, co by se mohly stát realitou. Všeprostupující čínská filozofie dodává krásný nádech a nápady k zamyšlení. Vím, že tuto knihu budu doporučovat ještě dlouho.
+Po zklamání z [povídek C. J. Tudor](/2023/07/06/Skvira/) mi tahle kniha spravila náladu. Příběhy jsou různorodé, ale všechny je spojují vyhlídky budoucnosti, co by se mohly stát realitou. Všeprostupující čínská filozofie dodává krásný nádech a nápady k zamyšlení. Vím, že tuto knihu budu doporučovat ještě dlouho.

@@ -12,7 +12,7 @@ title: Seznam knih
         <h3 class="text-xl font-bold text-brown mb-1">{{ month.name }}</h1>
         <div class="pb-8">
             {% for post in month.items %}
-                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline">{{post.title}}</a> od {{post.bookauthor}}</p>
+                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline">{{post.title}}</a> – {{post.bookauthor}}</p>
             {% endfor %}    
         </div>
     {% endfor %}

@@ -2,7 +2,7 @@
 layout: review
 title: Malý princ
 bookauthor: Antoine de Saint-Exupéry
-tags: sci-fi maturita
+tags: maturita 
 pages: 96
 dklink: knihy/maly-princ-190863
 books: 1

@@ -2,7 +2,7 @@
 layout: review
 title: 451 Stupňů Fahrenheita
 bookauthor: Ray Bradbury
-tags: sci-fi maturita
+tags: maturita sci-fi
 dklink: knihy/451-stupnu-fahrenheita-5192
 pages: 160
 ---

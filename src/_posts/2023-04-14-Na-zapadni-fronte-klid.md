@@ -2,7 +2,7 @@
 layout: review
 title: Na západní frontě klid
 bookauthor: Erich Maria Remarque
-tags: válka maturita
+tags: maturita válka 
 pages: 174
 dklink: knihy/na-zapadni-fronte-klid-250
 books: 1

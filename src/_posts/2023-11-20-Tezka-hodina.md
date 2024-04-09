@@ -2,7 +2,7 @@
 layout: review
 title: Těžká hodina
 bookauthor: Jiří Wolker
-tags: poezie maturita
+tags: maturita poezie
 pages: 62
 dklink: knihy/tezka-hodina-1090
 books: 1

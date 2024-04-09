@@ -2,7 +2,7 @@
 layout: review
 title: Lovci hlav
 bookauthor: Jo Nesbø
-tags: thriller maturita
+tags: maturita thriller 
 pages: 256
 dklink: knihy/lovci-hlav-93222
 books: 1

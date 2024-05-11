@@ -5,17 +5,45 @@ title: Seznam knih
 
 {% assign byYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
+<div class="waterfall -ml-12">
 {% for year in byYear %}
+<div class="mx-8 py-6">
     <h2 class="text-5xl font-bold text-brown mb-4">{{ year.name }}</h1>
     {% assign byMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
     {% for month in byMonth %}
-        <h3 class="text-xl font-bold text-brown mb-1">{{ month.name }}</h1>
+        <h3 class="text-base font-bold text-[#9E9589] mb-1">
+            {% case month.name %}
+                {% when '01' %}Leden
+                {% when '02' %}Únor
+                {% when '03' %}Březen
+                {% when '04' %}Duben
+                {% when '05' %}Květen
+                {% when '06' %}Červen
+                {% when '07' %}Červenec
+                {% when '08' %}Srpen
+                {% when '09' %}Září
+                {% when '10' %}Říjen
+                {% when '11' %}Listopad
+                {% when '12' %}Prosinec
+            {% endcase %}
+        </h3>
+
         <div class="pb-8">
             {% for post in month.items %}
-                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline">{{post.title}}</a> – {{post.bookauthor}}</p>
+                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline font-semibold">{{post.title}}</a> – {{post.bookauthor}}</p>
             {% endfor %}    
         </div>
     {% endfor %}
-<ul>
-</ul>
+</div>
 {% endfor %}
+</div>
+
+<script>
+    window.addEventListener('resize', (event) => waterfall('.waterfall'));
+
+    // For some reason, this has to be called twice to work on load? idk i'm confused
+    window.addEventListener('load', (event) => {
+        waterfall('.waterfall');
+        waterfall('.waterfall');
+    });
+</script>

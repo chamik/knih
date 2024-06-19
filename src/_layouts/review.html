@@ -5,9 +5,12 @@ layout: default
 <div class="flex flex-col pt-10">
     <div class="flex flex-col">
         <h2 class="text-5xl text-brown font-extrabold leading-[3.5rem]">{{page.title}}</h2>
+        {% if page.subtitle %}
+        <h3 class="text-xl text-brown font-extrabold leading-[1.5rem]">{{page.subtitle}}</h3>
+        {% endif %}
 
         <div class="flex flew-row justify-between pt-3">
-            <h3 class="text-2xl text-gray-500 font-bold">{{page.bookauthor}}</h3>
+            <p class="text-2xl text-[#9E9589] font-bold">{{page.bookauthor}}</p>
             <p class="md:text-xl my-auto pl-4 text-gray-500">{{page.date | date: "%d. %m. %Y"}}</p>
         </div>
     </div>
@@ -16,15 +19,18 @@ layout: default
         {{content}}
     </article>
 
-   
-    <div class="text-brown underline flex flex-row justify-between mt-6">
-        {% if page.previous.url %}
-            <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-        {% endif %}
+    {% if page.previous.url %}
+    <div class="text-brown font-bold text-lg underline flex flex-row justify-between mt-6">
+        <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
         {% if page.next.url %}
             <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
         {% endif %}
     </div>
+    {% else %}
+    <div class="text-brown font-bold text-lg underline flex flex-row justify-end mt-6">
+        <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    </div>
+    {% endif %}
 
     <hr class="border-[#3D4244] mt-8">
 

@@ -4,7 +4,7 @@ title: Čtvrté křídlo
 bookauthor: Rebecca Yarros
 tags: fantasy
 pages: 536
-dklink: knihy/neuromancer-11288
+dklink: knihy/empyreum-ctvrte-kridlo-530478
 books: 1
 ---
 

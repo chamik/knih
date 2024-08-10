@@ -15,3 +15,17 @@ title: K přečtení
 - Železný plamen -- Rebecca Yarros
 - Den, kdy padla noc -- Samantha Shannon
 - TeXbook naruby - Petr Olšák
+- Book From The Ground -- Xu Bing
+- Svědectví o životě v KLDR -- Nina Špitálníková
+- Výstava chameleonů -- Filip Mikuš
+- Tales from the Ant World -- Edward O. Wilson
+- Barva z kosmu a jiné horrory -- Howard P. Lovecraft
+- The Denial of Death -- Ernest Becker
+- Pro tvoje dobro --  Ellen Marie Wiseman
+- The Outer Limits of Reason -- Noson S. Yanofsky
+- Továrna na lži -- Vojtěch Pecka
+- Ocelové jeskyně & Já, robot -- Isaac Asimov
+- Co je designér -- Norman Potter
+- Transformátor -- Robin Kinross , Marie Neurath
+- Moderní typografie -- Robin Kinross
+- Desatero smyslů -- Jaroslav Petr

@@ -21,7 +21,6 @@ title: K přečtení
 - Tales from the Ant World -- Edward O. Wilson
 - Barva z kosmu a jiné horrory -- Howard P. Lovecraft
 - The Denial of Death -- Ernest Becker
-- Pro tvoje dobro --  Ellen Marie Wiseman
 - The Outer Limits of Reason -- Noson S. Yanofsky
 - Továrna na lži -- Vojtěch Pecka
 - Ocelové jeskyně & Já, robot -- Isaac Asimov

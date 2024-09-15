@@ -6,7 +6,7 @@ layout: default
     <div class="flex flex-col">
         <h2 class="text-5xl text-brown font-extrabold leading-[3.5rem]">{{page.title}}</h2>
         {% if page.subtitle %}
-        <h3 class="text-xl text-brown font-extrabold leading-[1.5rem]">{{page.subtitle}}</h3>
+        <h3 class="text-xl text-brown font-extrabold leading-[1.5rem] mb-2">{{page.subtitle}}</h3>
         {% endif %}
 
         <div class="flex flew-row justify-between pt-3">
@@ -34,17 +34,18 @@ layout: default
 
     <hr class="border-[#3D4244] mt-8">
 
-    <div class="flex flex-row justify-between flex-wrap mt-4 text-lg">
+    <div class="flex flex-col text-gray-400 font-mono">
+        <h4 class="text-lg my-4">Informace o knize</h4>
         <div class="flex flex-row">
+            <p class="mr-3">štítky:</p>
             {% for tag in page.tags %}
                 <p class="text-gray-500 pr-4 whitespace-nowrap">{{tag}}</p>
             {% endfor %}
         </div>
-
-        <p class="text-gray-500 whitespace-nowrap">{{page.pages}} stran</p>
+        <p>{{page.pages}} stran</p>
         {% if page.dklink %}
         <a href="https://www.databazeknih.cz/{{page.dklink}}" target="_blank">
-            <p class="text-gray-500 underline whitespace-nowrap">Databáze knih</p>
+            <p class="underline whitespace-nowrap">Databáze knih</p>
         </a>
         {% endif %}
     </div>

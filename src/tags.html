@@ -1,0 +1,32 @@
+---
+layout: default
+title: Seznam štítků
+---
+
+<a href="/listing">
+    <p class="text-brown underline text-xl mx-4 mb-4">Seznam podle data &raquo;</p>
+</a>
+
+{% assign tags = site.tags | sort %}
+<div class="waterfall -ml-12">
+{% for tag in tags %}
+<div class="mx-8">
+    <h2 class="text-5xl font-bold text-brown mb-4 w-1/2">{{ tag[0] }}</h2>
+    <div class="pb-8">
+        {% for post in tag[1] %}
+            <p class="text-xl text-pale text-wrap"> <a href="{{post.url}}" class="text-wrap text-brown hover:underline font-semibold">{{post.title}}</a> – {{post.bookauthor}}</p>
+        {% endfor %}    
+    </div>
+</div>
+{% endfor %}
+</div>
+
+<script>
+    window.addEventListener('resize', (event) => waterfall('.waterfall'));
+
+    // For some reason, this has to be called twice to work on load? idk i'm confused
+    window.addEventListener('load', (event) => {
+        waterfall('.waterfall');
+        waterfall('.waterfall');
+    });
+</script>

@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Esej pro typografii
+title: Esej o typografii
 bookauthor: Eric Gill
 tags: design
 dklink: knihy/esej-o-typografii-203483

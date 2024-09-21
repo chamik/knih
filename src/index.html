@@ -21,7 +21,9 @@ title: Kubíkovo
             {{post.content}}
         </div>
         <div class="flex flex-row flex-wrap mt-1">
-            <p class="text-gray-500 px-1 -ml-1 whitespace-nowrap">{{post.tags.first}}</p>
+            <a href="/tags#{{post.tags.first}}">
+                <p class="text-gray-500 px-1 -ml-1 whitespace-nowrap underline">{{post.tags.first}}</p>
+            </a>
             <p class="text-gray-500 px-2 whitespace-nowrap">{{post.pages}} stran</p>
             {% if post.dklink %}
             <a href="https://www.databazeknih.cz/{{post.dklink}}" target="_blank">

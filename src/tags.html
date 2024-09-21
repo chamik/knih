@@ -20,13 +20,3 @@ title: Seznam štítků
 </div>
 {% endfor %}
 </div>
-
-<script>
-    window.addEventListener('resize', (event) => waterfall('.waterfall'));
-
-    // For some reason, this has to be called twice to work on load? idk i'm confused
-    window.addEventListener('load', (event) => {
-        waterfall('.waterfall');
-        waterfall('.waterfall');
-    });
-</script>

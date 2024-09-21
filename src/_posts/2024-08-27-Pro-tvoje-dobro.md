@@ -2,7 +2,7 @@
 layout: review
 title: Pro tvoje dobro
 bookauthor: Ellen M. Wiseman
-tags: psychologické
+tags: thriller
 dklink: knihy/pro-tvoje-dobro-373076
 pages: 376
 ---

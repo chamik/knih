@@ -2,7 +2,7 @@
 layout: review
 title: Design pro skutečný svět
 bookauthor: Victor Papanek
-tags: odborné
+tags: design
 pages: 348
 dklink: knihy/design-pro-skutecny-svet-534102
 books: 1

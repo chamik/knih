@@ -2,7 +2,7 @@
 layout: review
 title: Typokniha
 bookauthor: Filip Blažek
-tags: odborné
+tags: design naučné
 pages: 260
 dklink: knihy/typokniha-pruvodce-tvorbou-tiskovin-455693
 books: 1

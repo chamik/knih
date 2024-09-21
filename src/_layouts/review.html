@@ -39,7 +39,9 @@ layout: default
         <div class="flex flex-row">
             <p class="mr-3">štítky:</p>
             {% for tag in page.tags %}
-                <p class="text-gray-500 pr-4 whitespace-nowrap">{{tag}}</p>
+                <a href="/tags#{{tag}}">
+                    <p class="text-gray-500 pr-4 whitespace-nowrap underline">{{tag}}</p>
+                </a>
             {% endfor %}
         </div>
         <p>{{page.pages}} stran</p>

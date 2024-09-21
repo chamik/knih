@@ -8,9 +8,9 @@ title: Seznam štítků
 </a>
 
 {% assign tags = site.tags | sort %}
-<div class="waterfall -ml-12">
+<div class="ml-3">
 {% for tag in tags %}
-<div class="mx-8">
+<div id="{{tag[0]}}">
     <h2 class="text-5xl font-bold text-brown mb-4 w-1/2">{{ tag[0] }}</h2>
     <div class="pb-8">
         {% for post in tag[1] %}

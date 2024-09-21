@@ -2,7 +2,7 @@
 layout: review
 title: Toulavá Země
 bookauthor: Liou Cch'-Sin
-tags: sci-fi povidky
+tags: sci-fi povídky
 dklink: knihy/toulava-zeme-476612
 pages: 380
 books: 1

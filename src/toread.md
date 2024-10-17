@@ -10,7 +10,7 @@ title: K přečtení
 - Pohřbený obr -- Kazuo Ishiguro
 - Count Zero & Mona Lisa Overdrive -- William Gibson
 - Gödel, Escher, Bach -- Douglas Hofstadter
-- Továrna na absolutno & Kritika slov & ... -- Karel Čapek
+- Kritika slov & ... -- Karel Čapek
 - Marťanská kronika & Tudy přijde něco zlého -- Ray Bradbury
 - Železný plamen -- Rebecca Yarros
 - Den, kdy padla noc -- Samantha Shannon

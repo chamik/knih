@@ -28,3 +28,4 @@ title: K přečtení
 - Transformátor -- Robin Kinross , Marie Neurath
 - Moderní typografie -- Robin Kinross
 - Desatero smyslů -- Jaroslav Petr
+- Eseje o typografii -- František Štorm

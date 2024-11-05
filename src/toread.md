@@ -29,3 +29,4 @@ title: K přečtení
 - Moderní typografie -- Robin Kinross
 - Desatero smyslů -- Jaroslav Petr
 - Eseje o typografii -- František Štorm
+- Česko-čínské objímání -- Jakub Zelenka

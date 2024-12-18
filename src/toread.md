@@ -11,7 +11,7 @@ title: K přečtení
 - Count Zero & Mona Lisa Overdrive -- William Gibson
 - Gödel, Escher, Bach -- Douglas Hofstadter
 - Kritika slov & ... -- Karel Čapek
-- Marťanská kronika & Tudy přijde něco zlého -- Ray Bradbury
+- Tudy přijde něco zlého -- Ray Bradbury
 - Železný plamen -- Rebecca Yarros
 - Den, kdy padla noc -- Samantha Shannon
 - TeXbook naruby - Petr Olšák
@@ -23,7 +23,7 @@ title: K přečtení
 - The Denial of Death -- Ernest Becker
 - The Outer Limits of Reason -- Noson S. Yanofsky
 - Továrna na lži -- Vojtěch Pecka
-- Ocelové jeskyně & Já, robot -- Isaac Asimov
+- Ocelové jeskyně & Já, robot & série Nadace -- Isaac Asimov
 - Co je designér -- Norman Potter
 - Transformátor -- Robin Kinross , Marie Neurath
 - Moderní typografie -- Robin Kinross
@@ -31,3 +31,5 @@ title: K přečtení
 - Eseje o typografii -- František Štorm
 - Česko-čínské objímání -- Jakub Zelenka
 - Prstenec -- Larry Niven
+- The Soul of a New Machine -- Tracy Kidder
+- série Mistborn -- Brandon Sanderson

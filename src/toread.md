@@ -30,3 +30,4 @@ title: K přečtení
 - Desatero smyslů -- Jaroslav Petr
 - Eseje o typografii -- František Štorm
 - Česko-čínské objímání -- Jakub Zelenka
+- Prstenec -- Larry Niven

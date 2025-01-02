@@ -16,7 +16,6 @@ title: K přečtení
 - Den, kdy padla noc -- Samantha Shannon
 - TeXbook naruby - Petr Olšák
 - Book From The Ground -- Xu Bing
-- Svědectví o životě v KLDR -- Nina Špitálníková
 - Výstava chameleonů -- Filip Mikuš
 - Tales from the Ant World -- Edward O. Wilson
 - Barva z kosmu a jiné horrory -- Howard P. Lovecraft

@@ -32,3 +32,4 @@ title: K přečtení
 - Prstenec -- Larry Niven
 - The Soul of a New Machine -- Tracy Kidder
 - série Mistborn -- Brandon Sanderson
+- Countdown to Zero Day -- Kim Zetter

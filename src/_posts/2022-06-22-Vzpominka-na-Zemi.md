@@ -2,7 +2,7 @@
 layout: review
 title: Vzpomínka na Zemi
 bookauthor: Liou Cch'-Sin
-tags: sci-fi trilogie
+tags: sci-fi nezařazené
 dklink: serie/vzpominka-na-zemi-6840
 pages: 1794
 books: 3

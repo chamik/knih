@@ -2,7 +2,7 @@
 layout: review
 title: Továrna na Absolutno
 bookauthor: Karel Čapek
-tags: nezařaditelné
+tags: nezařazené
 dklink: knihy/tovarna-na-absolutno-515
 pages: 234
 ---

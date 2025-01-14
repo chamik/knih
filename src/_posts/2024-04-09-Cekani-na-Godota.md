@@ -2,7 +2,7 @@
 layout: review
 title: Čekání na Godota
 bookauthor: Samuel Beckett
-tags: maturita nezařaditelné drama 
+tags: maturita nezařazené drama 
 pages: 152
 dklink: knihy/cekani-na-godota-5540
 books: 1

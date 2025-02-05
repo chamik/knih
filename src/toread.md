@@ -12,7 +12,6 @@ title: K přečtení
 - Gödel, Escher, Bach -- Douglas Hofstadter
 - Kritika slov & ... -- Karel Čapek
 - Tudy přijde něco zlého -- Ray Bradbury
-- Železný plamen -- Rebecca Yarros
 - Den, kdy padla noc -- Samantha Shannon
 - TeXbook naruby - Petr Olšák
 - Book From The Ground -- Xu Bing

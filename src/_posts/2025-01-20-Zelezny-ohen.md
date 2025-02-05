@@ -3,7 +3,7 @@ layout: review
 title: Železný oheň
 bookauthor: Rebecca Yarros
 tags: fantasy
-dklink: /prehled-knihy/zelezny-plamen-526050
+dklink: prehled-knihy/zelezny-plamen-526050
 pages: 784
 ---
 

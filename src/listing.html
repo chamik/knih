@@ -34,7 +34,7 @@ title: Seznam knih
 
         <div class="pb-8">
             {% for post in month.items %}
-                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline font-semibold">{{post.title}}</a> – {{post.bookauthor}}</p>
+                <p class="text-xl text-pale"> <a href="{{post.url}}" class="text-brown hover:underline font-semibold">{{post.title}}</a> &mdash; {{post.bookauthor}}</p>
             {% endfor %}    
         </div>
     {% endfor %}

@@ -24,7 +24,7 @@ title: Seznam štítků
     <h2 class="text-5xl font-bold text-pale capitalize mb-4 w-1/2">{{ tag[0] }}</h2>
     <div class="pb-8">
         {% for post in tag[1] %}
-            <p class="text-xl text-pale text-wrap"> <a href="{{post.url}}" class="text-wrap text-brown hover:underline font-semibold">{{post.title}}</a> – {{post.bookauthor}}</p>
+            <p class="text-xl text-pale text-wrap"> <a href="{{post.url}}" class="text-wrap text-brown hover:underline font-semibold">{{post.title}}</a> &mdash; {{post.bookauthor}}</p>
         {% endfor %}    
     </div>
 </div>

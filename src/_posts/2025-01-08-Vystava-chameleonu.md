@@ -2,7 +2,7 @@
 layout: review
 title: Výstava chameleonů
 bookauthor: Filip Mikuš
-tags: nezařazené magnesia-litera
+tags: nezařazené
 dklink: prehled-knihy/vystava-chameleonu-526472
 pages: 200
 ---

@@ -6,14 +6,14 @@ title: Seznam štítků
 {% assign tags = site.tags | sort %}
 
 <a href="/listing">
-    <p class="text-brown underline text-xl mx-4 mb-4">Seznam podle data &raquo;</p>
+    <p class="text-brown underline text-xl mx-4 mb-8">Seznam podle data &raquo;</p>
 </a>
 
 <div class="my-6 md:my-0 md:float-right bg-secondary p-4 rounded-lg max-w-sm shadow-md">
     <h2 class="text-pale text-2xl font-bold mb-3">Seznam štítků</h2>
     <div class="flex flex-row flex-wrap gap-x-4 gap-y-2">
         {% for tag in tags %}
-            <p><a class="text-brown hover:underline font-bold text-xl capitalize" href="#{{tag[0]}}">{{tag[0]}}</a></p>
+            <p><a class="text-brown hover:underline font-bold font-mono uppercase" href="#{{tag[0]}}">{{tag[0]}}</a></p>
         {% endfor %}
     </div>
 </div>
@@ -21,7 +21,7 @@ title: Seznam štítků
 <div class="ml-3">
 {% for tag in tags %}
 <div id="{{tag[0]}}">
-    <h2 class="text-5xl font-bold text-pale capitalize mb-4 w-1/2">{{ tag[0] }}</h2>
+    <h2 class="text-4xl text-light-brown uppercase font-mono mb-2">{{ tag[0] }}</h2>
     <div class="pb-8">
         {% for post in tag[1] %}
             <p class="text-xl text-pale text-wrap"> <a href="{{post.url}}" class="text-wrap text-brown hover:underline font-semibold">{{post.title}}</a> &mdash; {{post.bookauthor}}</p>

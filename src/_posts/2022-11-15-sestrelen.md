@@ -2,7 +2,7 @@
 layout: review
 title: Sestřelen 
 bookauthor: František Fajtl
-tags: válka životopis
+tags: válka podle-skutečnosti
 dklink: knihy/sestrelen-88302
 pages: 272
 ---

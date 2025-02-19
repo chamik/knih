@@ -10,7 +10,7 @@ layout: default
         {% endif %}
 
         <div class="flex flew-row justify-between pt-3">
-            <p class="text-2xl text-[#9E9589] font-bold">{{page.bookauthor}}</p>
+            <p class="text-2xl text-light-brown font-bold">{{page.bookauthor}}</p>
             <p class="md:text-xl my-auto pl-4 text-gray-500">{{page.date | date: "%d. %m. %Y"}}</p>
         </div>
     </div>
@@ -36,11 +36,11 @@ layout: default
 
     <div class="flex flex-col text-gray-400 font-mono">
         <h4 class="text-lg my-4">Informace o knize</h4>
-        <div class="flex flex-row">
-            <p class="mr-3">štítky:</p>
+        <div class="flex flex-row gap-4">
+            <p>štítky:</p>
             {% for tag in page.tags %}
                 <a href="/tags#{{tag}}">
-                    <p class="text-gray-500 pr-4 whitespace-nowrap underline">{{tag}}</p>
+                    <p class="text-gray-500 whitespace-nowrap underline uppercase">{{tag}}</p>
                 </a>
             {% endfor %}
         </div>

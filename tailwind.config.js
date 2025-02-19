@@ -14,6 +14,8 @@ module.exports = {
             colors: {
                 'pale': '#DCD7C9',
                 'brown': '#A27B5C',
+                'pale-brown': '#9E9589',
+                'light-brown': '#b28865',
                 'secondary': '#3F4E4F',
                 'secondary-dark': '#2C3639',
             }

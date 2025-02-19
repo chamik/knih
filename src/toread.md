@@ -39,6 +39,5 @@ title: K přečtení
 - Countdown to Zero Day --- Kim Zetter
 - Identita: Příběh českého grafického designu --- Linda Kudrnovská
 - Shiver --- Junji Ito
-- Haunting Adeline --- H. D. Carlton
 - House of Leaves --- Mark Z. Danielewski
-
+- Algospeak --- Adam Aleksic

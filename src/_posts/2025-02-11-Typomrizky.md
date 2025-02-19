@@ -2,7 +2,7 @@
 layout: review
 title: Typomřížky
 bookauthor: Filip Blažek
-tags: design
+tags: design naučné
 dklink: prehled-knihy/typomrizky-550740
 pages: 208
 ---

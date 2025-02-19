@@ -12,10 +12,10 @@ title: Seznam knih
 <div class="waterfall -ml-12">
 {% for year in byYear %}
 <div class="mx-8 py-6">
-    <h2 class="text-5xl font-bold text-brown mb-4">{{ year.name }}</h2>
+    <h2 class="text-5xl font-bold text-light-brown mb-4">{{ year.name }}</h2>
     {% assign byMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
     {% for month in byMonth %}
-        <h3 class="text-base font-bold text-[#9E9589] mb-1">
+        <h3 class="text-base font-bold text-pale-brown mb-1">
             {% case month.name %}
                 {% when '01' %}Leden
                 {% when '02' %}Únor

@@ -2,7 +2,7 @@
 layout: review
 title: Ghost in the Wires
 bookauthor: Kevin Mitnick
-tags: životopis anglicky
+tags: podle-skutečnosti anglicky
 pages: 448
 ---
 

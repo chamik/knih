@@ -6,7 +6,6 @@ title: K přečtení
 ## Koupené
 ### Knihy které mám rozečtené, nebo brzy číst budu
 - Česko-čínské objímání --- Jakub Zelenka
-- Pohřbený obr --- Kazuo Ishiguro
 - The Outer Limits of Reason --- Noson S. Yanofsky
 - What If? 2 --- Randall Munroe
 
@@ -41,3 +40,9 @@ title: K přečtení
 - Shiver --- Junji Ito
 - House of Leaves --- Mark Z. Danielewski
 - Algospeak --- Adam Aleksic
+- Onyxová bouře --- Rebecca Yarros
+- Den pro Šakala --- Frederick Forsyth
+- Dva proti Říši --- Jiří Šulc
+- Carrying the Fire --- Michael Collins
+- Diaspora --- Greg Egan
+- Never use Futura --- Douglas Thomas

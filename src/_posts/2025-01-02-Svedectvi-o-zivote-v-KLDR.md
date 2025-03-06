@@ -2,7 +2,7 @@
 layout: review
 title: Svědectví o životě v KLDR
 bookauthor: Nina Špitálníková
-tags: podle-skutečnosti nezařazené
+tags: podle-skutečnosti
 dklink: knihy/svedectvi-o-zivote-v-kldr-457486
 pages: 264
 ---

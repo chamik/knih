@@ -22,8 +22,9 @@ title: Seznam štítků
 {% for tag in tags %}
 <div id="{{tag[0]}}">
     <h2 class="text-4xl text-light-brown uppercase font-mono mb-2">{{ tag[0] }}</h2>
+    {% assign articles = tag[1] | sort: 'title' %}
     <div class="pb-8">
-        {% for post in tag[1] %}
+        {% for post in articles %}
             <p class="text-xl text-pale text-wrap"> <a href="{{post.url}}" class="text-wrap text-brown hover:underline font-semibold">{{post.title}}</a> &mdash; {{post.bookauthor}}</p>
         {% endfor %}    
     </div>

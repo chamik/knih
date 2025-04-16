@@ -10,6 +10,7 @@ title: K přečtení
 - Návod k použití železnice --- Jaroslav Rudiš
 - Identita: Příběh českého grafického designu --- Linda Kudrnovská
 - Den, kdy padla noc --- Samantha Shannon
+- Rychlé šípy --- Jaroslav Foglar
 
 ## K přečtení
 ### Knihy které bych si někdy rád přečetl

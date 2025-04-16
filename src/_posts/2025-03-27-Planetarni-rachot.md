@@ -1,7 +1,7 @@
 ---
 layout: review
 title: Planetární rachot
-bookauthor: Michaela Merglová , Martin Paytok
+bookauthor: Michaela Merglová, Martin Paytok
 tags: sci-fi
 pages: 304
 dklink: knihy/vesmirni-borci-planetarni-rachot-552169

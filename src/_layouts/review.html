@@ -8,11 +8,7 @@ layout: default
         {% if page.subtitle %}
         <h3 class="text-xl text-brown font-extrabold leading-[1.5rem] mb-2">{{page.subtitle}}</h3>
         {% endif %}
-
-        <div class="flex flew-row justify-between pt-3">
-            <p class="text-2xl text-light-brown font-bold">{{page.bookauthor}}</p>
-            <p class="md:text-xl my-auto pl-4 text-gray-500">{{page.date | date: "%d. %m. %Y"}}</p>
-        </div>
+        <p class="text-2xl text-light-brown font-bold pt-3">{{page.bookauthor}}</p>
     </div>
 
     <article class="prose prose-xl min-w-full prose-headings:mb-5 prose-hr:my-7 prose-p:my-3 prose-blockquote:my-5 prose-a:underline-offset-4 prose-li:my-2 text-pale pt-4 prose-a:text-pale">
@@ -45,6 +41,7 @@ layout: default
             {% endfor %}
         </div>
         <p>{{page.pages}} stran</p>
+        <p>Přidáno {{page.date | date: "%d. %m. %Y"}}</p>
         {% if page.dklink %}
         <a href="https://www.databazeknih.cz/{{page.dklink}}" target="_blank">
             <p class="underline whitespace-nowrap">Databáze knih</p>

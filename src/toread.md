@@ -8,9 +8,7 @@ title: K přečtení
 - Česko-čínské objímání --- Jakub Zelenka
 - The Outer Limits of Reason --- Noson S. Yanofsky
 - Návod k použití železnice --- Jaroslav Rudiš
-- Identita: Příběh českého grafického designu --- Linda Kudrnovská
 - Den, kdy padla noc --- Samantha Shannon
-- Rychlé šípy --- Jaroslav Foglar
 - Too Late to Awaken --- Slavoj Žižek
 - Pravdivé texty --- Petr Babák
 
@@ -27,7 +25,6 @@ title: K přečtení
 - Barva z kosmu a jiné horrory --- Howard P. Lovecraft
 - The Denial of Death --- Ernest Becker
 - Ocelové jeskyně & Já, robot & série Nadace --- Isaac Asimov
-- Moderní typografie --- Robin Kinross
 - Desatero smyslů --- Jaroslav Petr
 - Eseje o typografii --- František Štorm
 - Prstenec --- Larry Niven

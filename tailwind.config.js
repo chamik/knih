@@ -18,6 +18,7 @@ module.exports = {
                 'light-brown': '#b28865',
                 'secondary': '#3F4E4F',
                 'secondary-dark': '#2C3639',
+                'dark-gray': '#3D4244',
             }
         },
     },

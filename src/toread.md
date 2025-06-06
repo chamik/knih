@@ -10,7 +10,7 @@ title: K přečtení
 - Návod k použití železnice --- Jaroslav Rudiš
 - Den, kdy padla noc --- Samantha Shannon
 - Too Late to Awaken --- Slavoj Žižek
-- Pravdivé texty --- Petr Babák
+- Nexus --- Yuval Noah Harari
 
 ## K přečtení
 ### Knihy které bych si někdy rád přečetl
@@ -34,11 +34,9 @@ title: K přečtení
 - House of Leaves --- Mark Z. Danielewski
 - Algospeak --- Adam Aleksic
 - Onyxová bouře --- Rebecca Yarros
-- Den pro Šakala --- Frederick Forsyth
 - Dva proti Říši --- Jiří Šulc
 - Carrying the Fire --- Michael Collins
 - Diaspora --- Greg Egan
 - Never use Futura --- Douglas Thomas
 - Jak je důležité miti Filipa --- Oscar Wilde
 - There Is No Antimemetics Division --- qntm
-- We Are Bellingcat --- Eliot Higgins

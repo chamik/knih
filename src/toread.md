@@ -10,7 +10,7 @@ title: K přečtení
 - Návod k použití železnice --- Jaroslav Rudiš
 - Den, kdy padla noc --- Samantha Shannon
 - Too Late to Awaken --- Slavoj Žižek
-- Nexus --- Yuval Noah Harari
+- Algospeak --- Adam Aleksic
 
 ## K přečtení
 ### Knihy které bych si někdy rád přečetl
@@ -32,7 +32,6 @@ title: K přečtení
 - Countdown to Zero Day --- Kim Zetter
 - Shiver --- Junji Ito
 - House of Leaves --- Mark Z. Danielewski
-- Algospeak --- Adam Aleksic
 - Onyxová bouře --- Rebecca Yarros
 - Dva proti Říši --- Jiří Šulc
 - Carrying the Fire --- Michael Collins

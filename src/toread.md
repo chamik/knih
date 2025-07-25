@@ -6,10 +6,10 @@ title: K přečtení
 ## Již brzy
 ### Knihy, které mám rozečtené, nebo (brzy?) číst budu
 - Česko-čínské objímání --- Jakub Zelenka
-- The Outer Limits of Reason --- Noson S. Yanofsky
 - Návod k použití železnice --- Jaroslav Rudiš
 - Too Late to Awaken --- Slavoj Žižek
 - Algospeak --- Adam Aleksic
+- Jak je důležité miti Filipa --- Oscar Wilde
 
 ## Do budoucna
 ### Knihy, které bych si někdy rád přečetl
@@ -36,7 +36,7 @@ title: K přečtení
 - Carrying the Fire --- Michael Collins
 - Diaspora --- Greg Egan
 - Never use Futura --- Douglas Thomas
-- Jak je důležité miti Filipa --- Oscar Wilde
 - There Is No Antimemetics Division --- qntm
 - The Design of Everyday Things --- Donald Norman
 - Amusing Ourselves to Death --- Neil Postman
+- Artemis --- Andy Weir

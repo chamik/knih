@@ -11,7 +11,7 @@ title: Seznam knih
 
 <div class="waterfall -ml-12">
 {% for year in byYear %}
-<div class="mx-8 py-6 w-5/12">
+<div class="mx-8 py-6 md:w-5/12">
     <h2 class="text-5xl font-bold text-light-brown mb-4">{{ year.name }}</h2>
     {% assign byMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
     {% for month in byMonth %}

@@ -2,7 +2,7 @@
 layout: review
 title: The Outer Limits of Reason
 bookauthor: Noson S. Yanofsky
-tags: naučné
+tags: naučné anglicky
 pages: 428
 ---
 

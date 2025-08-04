@@ -8,7 +8,6 @@ title: K přečtení
 - Česko-čínské objímání --- Jakub Zelenka
 - Návod k použití železnice --- Jaroslav Rudiš
 - Too Late to Awaken --- Slavoj Žižek
-- Algospeak --- Adam Aleksic
 - Jak je důležité miti Filipa --- Oscar Wilde
 
 ## Do budoucna

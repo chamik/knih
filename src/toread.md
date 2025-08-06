@@ -8,6 +8,7 @@ title: K přečtení
 - Česko-čínské objímání --- Jakub Zelenka
 - Návod k použití železnice --- Jaroslav Rudiš
 - Too Late to Awaken --- Slavoj Žižek
+- Úvod do současné filosofie --- Miroslav Petříček
 
 ## Do budoucna
 ### Knihy, které bych si někdy rád přečetl

@@ -5,10 +5,10 @@ title: K přečtení
 
 ## Již brzy
 ### Knihy, které mám rozečtené, nebo (brzy?) číst budu
-- Česko-čínské objímání --- Jakub Zelenka
 - Návod k použití železnice --- Jaroslav Rudiš
 - Too Late to Awaken --- Slavoj Žižek
 - Úvod do současné filosofie --- Miroslav Petříček
+- Artemis --- Andy Weir
 
 ## Do budoucna
 ### Knihy, které bych si někdy rád přečetl
@@ -30,7 +30,6 @@ title: K přečtení
 - Countdown to Zero Day --- Kim Zetter
 - Shiver --- Junji Ito
 - House of Leaves --- Mark Z. Danielewski
-- Onyxová bouře --- Rebecca Yarros
 - Dva proti Říši --- Jiří Šulc
 - Carrying the Fire --- Michael Collins
 - Diaspora --- Greg Egan
@@ -38,4 +37,3 @@ title: K přečtení
 - There Is No Antimemetics Division --- qntm
 - The Design of Everyday Things --- Donald Norman
 - Amusing Ourselves to Death --- Neil Postman
-- Artemis --- Andy Weir

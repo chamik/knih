@@ -1,6 +1,6 @@
 ---
 layout: review
-title: Železný oheň
+title: Železný plamen
 bookauthor: Rebecca Yarros
 tags: fantasy
 dklink: prehled-knihy/zelezny-plamen-526050

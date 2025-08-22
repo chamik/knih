@@ -7,4 +7,4 @@ pages: 96
 dklink: knihy/jak-je-dulezite-miti-filipa-537
 ---
 
-Příjemně zamotané a nadlehčeně nevážné. Naživo to musí být ještě větší zábava.
+Příjemně zamotané a nadlehčeně nevážné. Naživo to musí být ještě větší zábava. Bohužel mě při čtení rušily docela očividné překlepy; v jednom případě dokonce číslice 1 místo malého L!

@@ -15,6 +15,9 @@ layout: default
         {{content}}
     </article>
 
+    {% comment %}
+    TODO: if text wraps on a small display, do flex-col and make the next.title ragged to the right
+    {% endcomment %}
     {% if page.previous.url %}
     <div class="text-brown font-bold text-lg underline flex flex-row justify-between mt-6">
         <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>

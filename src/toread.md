@@ -4,19 +4,23 @@ title: K přečtení
 ---
 
 ## Již brzy
-### Knihy, které mám rozečtené, nebo (brzy?) číst budu
-- Návod k použití železnice --- Jaroslav Rudiš
-- Too Late to Awaken --- Slavoj Žižek
+### Knihy, které mám rozečtené
 - Úvod do současné filosofie --- Miroslav Petříček
+- House of Leaves --- Mark Z. Danielewski
 
-## Do budoucna
+## Backlog
+### Knihy, které už mám, jen jsem se k nim ještě nedostal
+- Umění debatovat --- Timofej Kožuchov
+- Válka s mloky --- Karel Čapek
+- Návod k použití železnice --- Jaroslav Rudiš
+- Etika --- Simon Blackburn
+- Šest procházek literárními lesy --- Umberto Eco
+
+## Wishlist
 ### Knihy, které bych si někdy rád přečetl
 
 - Nesnesitelná lehkost bytí --- Milan Kundera
-- Fenomén psychedelie --- Filip Tylš 
 - Count Zero & Mona Lisa Overdrive --- William Gibson
-- Gödel, Escher, Bach --- Douglas Hofstadter
-- Válka s mloky --- Karel Čapek
 - TeXbook naruby --- Petr Olšák
 - Tales from the Ant World --- Edward O. Wilson
 - Barva z kosmu a jiné horrory --- Howard P. Lovecraft
@@ -28,7 +32,6 @@ title: K přečtení
 - The Soul of a New Machine --- Tracy Kidder
 - Countdown to Zero Day --- Kim Zetter
 - Shiver --- Junji Ito
-- House of Leaves --- Mark Z. Danielewski
 - Dva proti Říši --- Jiří Šulc
 - Carrying the Fire --- Michael Collins
 - Diaspora --- Greg Egan

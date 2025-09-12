@@ -6,9 +6,7 @@ title: O stránce
 ## O stránce
 {: .text-brown}
 
-Tato stránka slouží převážně pro mě; pro uchování pocitů a dojmů po přečtení knihy, které se kvůli mé špatné paměti po pár dnech rozplynou jako dým. Taky se hodí jako rychlá reference lidem, kterým nějakou specifickou knihu doporučuji.
-
-Moji hlavní stránku můžete nalézt na [chamik.eu](https://chamik.eu){:target="_blank" .text-brown}.
+Tato stránka slouží převážně pro mě -- pro uchování pocitů a dojmů po přečtení knihy. Taky se hodí jako rychlá reference lidem, kterým nějakou specifickou knihu doporučuji.
 
 {% assign pagecounter = 0 %}
 {% assign bookcounter = 0 %}
@@ -24,4 +22,4 @@ Moji hlavní stránku můžete nalézt na [chamik.eu](https://chamik.eu){:target
 
 Dohromady jsem něco málo napsal o {{bookcounter}} knihách ({{pagecounter}} stránkách).
 
-Zdroj stránky nalezneš na mém [Githubu](https://github.com/chamik/knih).
+Můj hlavní web s články najdeš na [chamik.eu](https://chamik.eu). Zdroj stránky nalezneš na mém [Githubu](https://github.com/chamik/knih).

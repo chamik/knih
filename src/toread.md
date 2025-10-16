@@ -6,7 +6,6 @@ title: K přečtení
 ## Již brzy
 ### Knihy, které mám rozečtené
 - Úvod do současné filosofie --- Miroslav Petříček
-- House of Leaves --- Mark Z. Danielewski
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -15,6 +14,7 @@ title: K přečtení
 - Návod k použití železnice --- Jaroslav Rudiš
 - Etika --- Simon Blackburn
 - Šest procházek literárními lesy --- Umberto Eco
+- Příběh umění --- Ernst Hans Gombrich 
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl

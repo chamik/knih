@@ -5,15 +5,14 @@ title: K přečtení
 
 ## Již brzy
 ### Knihy, které mám rozečtené
-- Úvod do současné filosofie --- Miroslav Petříček
+- Šest procházek literárními lesy --- Umberto Eco
+- Válka s mloky --- Karel Čapek
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
 - Umění debatovat --- Timofej Kožuchov
-- Válka s mloky --- Karel Čapek
 - Návod k použití železnice --- Jaroslav Rudiš
 - Etika --- Simon Blackburn
-- Šest procházek literárními lesy --- Umberto Eco
 - Příběh umění --- Ernst Hans Gombrich 
 
 ## Wishlist
@@ -40,3 +39,4 @@ title: K přečtení
 - The Design of Everyday Things --- Donald Norman
 - Amusing Ourselves to Death --- Neil Postman
 - Snow Crash --- Neal Stephenson
+- Kouzelný vrch --- Thomas Mann

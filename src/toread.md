@@ -5,7 +5,8 @@ title: K přečtení
 
 ## Již brzy
 ### Knihy, které mám rozečtené
-- Šest procházek literárními lesy --- Umberto Eco
+- Továrna na lži --- Vojtěch Pecka
+- Zkrocení zlé ženy --- William Shakespeare
 - Válka s mloky --- Karel Čapek
 
 ## Backlog
@@ -13,7 +14,8 @@ title: K přečtení
 - Umění debatovat --- Timofej Kožuchov
 - Návod k použití železnice --- Jaroslav Rudiš
 - Etika --- Simon Blackburn
-- Příběh umění --- Ernst Hans Gombrich 
+- Příběh umění --- Ernst Hans Gombrich
+- Šest procházek literárními lesy --- Umberto Eco
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl

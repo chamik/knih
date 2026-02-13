@@ -5,20 +5,21 @@ title: K přečtení
 
 ## Již brzy
 ### Knihy, které mám rozečtené
+
 - Zkrocení zlé ženy --- William Shakespeare
-- Válka s mloky --- Karel Čapek
 - Etika --- Simon Blackburn
-- Nadace --- Isaac Asimov
+- Czechoslayvakia --- Polách Jakub
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
 - Umění debatovat --- Timofej Kožuchov
 - Návod k použití železnice --- Jaroslav Rudiš
 - Příběh umění --- Ernst Hans Gombrich
-- Šest procházek literárními lesy --- Umberto Eco
 - Desatero smyslů --- Jaroslav Petr
 - Kouzelný vrch --- Thomas Mann
 - Barva z kosmu --- Howard P. Lovecraft
+- Válka s mloky --- Karel Čapek
+- Nadace --- Isaac Asimov
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl
@@ -41,4 +42,4 @@ title: K přečtení
 - The Design of Everyday Things --- Donald Norman
 - Amusing Ourselves to Death --- Neil Postman
 - Snow Crash --- Neal Stephenson
-- The Legacy of Luna --- Julia B. Hill
+- Bledý oheň --- Vladimir Nabokov 

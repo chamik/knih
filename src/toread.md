@@ -8,7 +8,6 @@ title: K přečtení
 
 - Zkrocení zlé ženy --- William Shakespeare
 - Etika --- Simon Blackburn
-- Czechoslayvakia --- Polách Jakub
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -19,7 +18,7 @@ title: K přečtení
 - Kouzelný vrch --- Thomas Mann
 - Barva z kosmu --- Howard P. Lovecraft
 - Válka s mloky --- Karel Čapek
-- Nadace --- Isaac Asimov
+- Czechoslayvakia --- Polách Jakub
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl

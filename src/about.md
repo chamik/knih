@@ -23,3 +23,8 @@ Tato stránka slouží převážně pro mě -- pro uchování pocitů a dojmů p
 Dohromady jsem něco málo napsal o {{bookcounter}} knihách ({{pagecounter}} stránkách).
 
 Můj hlavní web s články najdeš na [chamik.eu](https://chamik.eu). Zdroj stránky nalezneš na mém [Githubu](https://github.com/chamik/knih).
+
+## Podobné
+{: .text-brown}
+
+Pokud ti tohle přijde cool, určitě se ti bude líbit i [Markův](https://mmq.cz/) web [DOK](https://dok.mmq.cz/).

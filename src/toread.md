@@ -6,11 +6,14 @@ title: K přečtení
 ## Již brzy
 ### Knihy, které mám rozečtené
 
+- Děti Duny --- Frank Herbert
 - Zkrocení zlé ženy --- William Shakespeare
 - Etika --- Simon Blackburn
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
+
+- Všechno je tuberkulóza --- John Green
 - Umění debatovat --- Timofej Kožuchov
 - Návod k použití železnice --- Jaroslav Rudiš
 - Příběh umění --- Ernst Hans Gombrich
@@ -42,3 +45,5 @@ title: K přečtení
 - Amusing Ourselves to Death --- Neil Postman
 - Snow Crash --- Neal Stephenson
 - Bledý oheň --- Vladimir Nabokov 
+- Tak pravil Zarathustra --- Friedrich Nietzsche
+

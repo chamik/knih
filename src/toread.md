@@ -6,7 +6,7 @@ title: K přečtení
 ## Již brzy
 ### Knihy, které mám rozečtené
 
-- Děti Duny --- Frank Herbert
+- AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
 - Zkrocení zlé ženy --- William Shakespeare
 - Etika --- Simon Blackburn
 
@@ -40,10 +40,11 @@ title: K přečtení
 - Carrying the Fire --- Michael Collins
 - Diaspora --- Greg Egan
 - Never use Futura --- Douglas Thomas
-- There Is No Antimemetics Division --- qntm
+- There Is No Antimemetics Division (v2) --- qntm
 - The Design of Everyday Things --- Donald Norman
 - Amusing Ourselves to Death --- Neil Postman
 - Snow Crash --- Neal Stephenson
 - Bledý oheň --- Vladimir Nabokov 
 - Tak pravil Zarathustra --- Friedrich Nietzsche
-
+- série Zeměplocha --- Terry Pratchett
+- Božský imperátor Duny --- Frank Herbert

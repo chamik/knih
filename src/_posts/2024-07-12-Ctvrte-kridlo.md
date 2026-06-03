@@ -2,6 +2,7 @@
 layout: review
 title: Čtvrté křídlo
 bookauthor: Rebecca Yarros
+series: Empyreum
 tags: fantasy
 pages: 536
 dklink: knihy/empyreum-ctvrte-kridlo-530478

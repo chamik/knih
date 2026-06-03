@@ -2,6 +2,7 @@
 layout: review
 title: Spasitel Duny
 bookauthor: Frank Herbert
+series: Duna
 tags: sci-fi
 pages: 210
 dklink: prehled-knihy/duna-spasitel-duny-15785

@@ -2,6 +2,7 @@
 layout: review
 title: Železný plamen
 bookauthor: Rebecca Yarros
+series: Empyreum
 tags: fantasy
 dklink: prehled-knihy/zelezny-plamen-526050
 pages: 784

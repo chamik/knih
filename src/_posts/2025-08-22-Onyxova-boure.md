@@ -2,6 +2,7 @@
 layout: review
 title: Onyxová bouře
 bookauthor: Rebecca Yarros
+series: Empyreum
 tags: fantasy
 pages: 632
 dklink: prehled-knihy/empyreum-empyreum-onyxova-boure-553086

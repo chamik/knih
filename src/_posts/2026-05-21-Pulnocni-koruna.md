@@ -4,7 +4,7 @@ title: Půlnoční koruna
 series: Skleněný trůn
 bookauthor: Sarah J. Maas
 tags: fantasy
-pages: 536
+pages: 400
 dklink: prehled-knihy/skleneny-trun-tron-zo-skla-pulnocni-koruna-259919
 ---
 

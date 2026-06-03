@@ -24,6 +24,17 @@ permalink: pretty
 
 source: src/
 
+collections:
+  series:
+    output: true
+    permalink: /series/:name/
+
+defaults:
+  - scope:
+      type: series
+    values:
+      layout: series
+
 exclude: [
   .gitignore,
   styles/index.css,

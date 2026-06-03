@@ -5,9 +5,17 @@ title: Seznam knih
 
 {% assign byYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-<a href="/tags">
-    <p class="text-brown underline text-xl mx-4">Seznam podle štítků &raquo;</p>
-</a>
+<div class="flex flex-row gap-8">
+    <a href="/tags">
+        <p class="text-brown underline text-xl">Seznam podle štítků &raquo;</p>
+    </a>
+    {% comment %}
+    <a href="/series">
+        <p class="text-brown underline text-xl">Seznam sérií &raquo;</p>
+    </a>
+    {% endcomment %}
+</div>
+
 
 <div class="waterfall -ml-12">
 {% for year in byYear %}

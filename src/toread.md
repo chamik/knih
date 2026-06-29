@@ -7,9 +7,9 @@ title: K přečtení
 ### Knihy, které mám rozečtené
 
 - AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
-- Zkrocení zlé ženy --- William Shakespeare
 - Etika --- Simon Blackburn
 - Careless People --- Sarah Wynn-Williams
+- Věž úsvitu --- Sarah J. Maas
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -49,3 +49,4 @@ title: K přečtení
 - Tak pravil Zarathustra --- Friedrich Nietzsche
 - série Zeměplocha --- Terry Pratchett
 - Božský imperátor Duny --- Frank Herbert
+- Svědectví o životě v KLDR 2

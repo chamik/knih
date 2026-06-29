@@ -9,6 +9,7 @@ title: K přečtení
 - AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
 - Zkrocení zlé ženy --- William Shakespeare
 - Etika --- Simon Blackburn
+- Careless People --- Sarah Wynn-Williams
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -44,7 +45,7 @@ title: K přečtení
 - The Design of Everyday Things --- Donald Norman
 - Amusing Ourselves to Death --- Neil Postman
 - Snow Crash --- Neal Stephenson
-- Bledý oheň --- Vladimir Nabokov 
+- Bledý oheň --- Vladimir Nabokov
 - Tak pravil Zarathustra --- Friedrich Nietzsche
 - série Zeměplocha --- Terry Pratchett
 - Božský imperátor Duny --- Frank Herbert

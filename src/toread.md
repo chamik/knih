@@ -10,6 +10,7 @@ title: K přečtení
 - Etika --- Simon Blackburn
 - Careless People --- Sarah Wynn-Williams
 - Věž úsvitu --- Sarah J. Maas
+- Příběh umění --- Ernst Hans Gombrich
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -17,7 +18,6 @@ title: K přečtení
 - Všechno je tuberkulóza --- John Green
 - Umění debatovat --- Timofej Kožuchov
 - Návod k použití železnice --- Jaroslav Rudiš
-- Příběh umění --- Ernst Hans Gombrich
 - Desatero smyslů --- Jaroslav Petr
 - Kouzelný vrch --- Thomas Mann
 - Barva z kosmu --- Howard P. Lovecraft
@@ -50,3 +50,4 @@ title: K přečtení
 - série Zeměplocha --- Terry Pratchett
 - Božský imperátor Duny --- Frank Herbert
 - Svědectví o životě v KLDR 2
+- Soukromá vichřice --- Vladimír Páral

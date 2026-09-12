@@ -7,9 +7,7 @@ title: K přečtení
 ### Knihy, které mám rozečtené
 
 - AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
-- Etika --- Simon Blackburn
 - Careless People --- Sarah Wynn-Williams
-- Věž úsvitu --- Sarah J. Maas
 - Příběh umění --- Ernst Hans Gombrich
 
 ## Backlog
@@ -23,6 +21,10 @@ title: K přečtení
 - Barva z kosmu --- Howard P. Lovecraft
 - Válka s mloky --- Karel Čapek
 - Czechoslayvakia --- Polách Jakub
+- Etika --- Simon Blackburn
+- Věž úsvitu --- Sarah J. Maas
+- Light Blue Filter --- Václav Kopecký
+- 0 TU. Svazek I --- Jakub Hussar
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl
@@ -48,6 +50,6 @@ title: K přečtení
 - Bledý oheň --- Vladimir Nabokov
 - Tak pravil Zarathustra --- Friedrich Nietzsche
 - série Zeměplocha --- Terry Pratchett
-- Božský imperátor Duny --- Frank Herbert
 - Svědectví o životě v KLDR 2
 - Soukromá vichřice --- Vladimír Páral
+- Thunder Below! --- Eugene B. Fluckey

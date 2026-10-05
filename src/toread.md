@@ -9,6 +9,7 @@ title: K přečtení
 - AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
 - Careless People --- Sarah Wynn-Williams
 - Příběh umění --- Ernst Hans Gombrich
+- 0 TU. Svazek I --- Jakub Hussar
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -22,9 +23,7 @@ title: K přečtení
 - Válka s mloky --- Karel Čapek
 - Czechoslayvakia --- Polách Jakub
 - Etika --- Simon Blackburn
-- Věž úsvitu --- Sarah J. Maas
 - Light Blue Filter --- Václav Kopecký
-- 0 TU. Svazek I --- Jakub Hussar
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl
@@ -32,24 +31,21 @@ title: K přečtení
 - Nesnesitelná lehkost bytí --- Milan Kundera
 - Count Zero & Mona Lisa Overdrive --- William Gibson
 - TeXbook naruby --- Petr Olšák
-- Tales from the Ant World --- Edward O. Wilson
 - The Denial of Death --- Ernest Becker
 - Eseje o typografii --- František Štorm
 - Prstenec --- Larry Niven
 - The Soul of a New Machine --- Tracy Kidder
 - Countdown to Zero Day --- Kim Zetter
 - Shiver --- Junji Ito
-- Dva proti Říši --- Jiří Šulc
 - Carrying the Fire --- Michael Collins
 - Diaspora --- Greg Egan
 - Never use Futura --- Douglas Thomas
 - There Is No Antimemetics Division (v2) --- qntm
 - The Design of Everyday Things --- Donald Norman
-- Amusing Ourselves to Death --- Neil Postman
 - Snow Crash --- Neal Stephenson
 - Bledý oheň --- Vladimir Nabokov
 - Tak pravil Zarathustra --- Friedrich Nietzsche
 - série Zeměplocha --- Terry Pratchett
-- Svědectví o životě v KLDR 2
+- Svědectví o životě v KLDR 2 --- Nina Špitálníková
 - Soukromá vichřice --- Vladimír Páral
 - Thunder Below! --- Eugene B. Fluckey

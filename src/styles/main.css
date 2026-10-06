@@ -1,29 +1,40 @@
 ---
 ---
 
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "../../src";
+
+@theme {
+    --font-serif: Lora, serif;
+    --color-pale: #DCD7C9;
+    --color-brown: #A27B5C;
+    --color-pale-brown: #9E9589;
+    --color-light-brown: #b28865;
+    --color-secondary: #3F4E4F;
+    --color-secondary-dark: #2C3639;
+    --color-dark-gray: #3D4244;
+}
 
 @font-face {
-    font-family: 'Lora';
-    src: url('/assets/fonts/Lora-Regular.ttf') format('truetype');
+    font-family: "Lora";
+    src: url("/assets/fonts/Lora-Regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Lora';
-    src: url('/assets/fonts/Lora-Bold.ttf') format('truetype');
+    font-family: "Lora";
+    src: url("/assets/fonts/Lora-Bold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Lora';
-    src: url('/assets/fonts/Lora-Italic.ttf') format('truetype');
+    font-family: "Lora";
+    src: url("/assets/fonts/Lora-Italic.ttf") format("truetype");
     font-weight: 400;
     font-style: italic;
     font-display: swap;

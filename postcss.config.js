@@ -1,7 +1,5 @@
 module.exports = {
     plugins: [
-      require('postcss-import'),
-      require('tailwindcss')("./tailwind.config.js"),
-      require('autoprefixer'),
+      require('@tailwindcss/postcss')({ optimize: process.env.JEKYLL_ENV === 'production' ? { minify: true } : false }),
     ]
   }

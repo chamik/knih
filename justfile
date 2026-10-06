@@ -2,5 +2,5 @@
 build:
     npm run build
 
-publish: 
+publish: build
     rsync -r --progress ./build/* gaia:/www/knih.chamik.eu/

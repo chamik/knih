@@ -2,6 +2,7 @@
 layout: review
 title: Den, kdy padla noc
 bookauthor: Samantha Shannon
+series: Kořeny chaosu
 tags: fantasy
 pages: 905
 dklink: knihy/koreny-chaosu-den-kdy-padla-noc-541491

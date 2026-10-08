@@ -2,6 +2,7 @@
 layout: review
 title: Převorství u pomerančovníku
 bookauthor: Samantha Shannon
+series: Kořeny chaosu
 tags: fantasy
 pages: 848
 dklink: knihy/koreny-chaosu-prevorstvi-u-pomerancovniku-428807

@@ -2,6 +2,7 @@
 layout: review
 title: Naprosto pozoruhodná věc
 bookauthor: Hank Green
+series: Carlové
 tags: sci-fi
 dklink: knihy/naprosto-pozoruhodna-vec-415273
 pages: 328

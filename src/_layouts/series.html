@@ -12,9 +12,16 @@ layout: default
 
     {% assign posts = site.posts | where: "series", page.series | sort: "date" %}
     <div class="pb-8">
-        <p class="text-lg mb-1">Přečtené knihy v sérii:</p>
+        <p class="text-lg text-gray-400 mb-3">Přečtené knihy v sérii</p>
+        <ol>
         {% for post in posts %}
-            <p class="text-xl"> <a href="{{post.url}}" class="text-brown hover:underline font-semibold">{{post.title}}</a></p>
+            <li class="flex items-baseline gap-3 text-xl py-1">
+                <span class="text-pale-brown italic w-6 shrink-0">{{ forloop.index }}.</span>
+                <a href="{{post.url}}" class="text-brown font-semibold underline underline-offset-4">{{post.title}}</a>
+                <span class="flex-1 border-b-2 border-dotted border-dark-gray"></span>
+                <span class="text-gray-500 text-base whitespace-nowrap">{{post.pages}} stran</span>
+            </li>
         {% endfor %}
+        </ol>
     </div>
 </div>

@@ -2,6 +2,7 @@
 layout: review
 title: Nádherně pošetilá snaha
 bookauthor: Hank Green
+series: Carlové
 tags: sci-fi
 dklink: knihy/carlove-nadherne-posetila-snaha-483559
 pages: 480

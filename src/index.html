@@ -25,6 +25,11 @@ title: Kubíkovo
                 <p class="text-gray-500 px-1 -ml-1 whitespace-nowrap underline">{{post.tags.first}}</p>
             </a>
             <p class="text-gray-500 px-2 whitespace-nowrap">{{post.pages}} stran</p>
+            {% if post.series %}
+            <a href="/series/{{post.series | slugify: 'latin'}}/">
+                <p class="text-gray-500 px-2 underline whitespace-nowrap">{{post.series}}</p>
+            </a>
+            {% endif %}
             {% if post.dklink %}
             <a href="https://www.databazeknih.cz/{{post.dklink}}" target="_blank">
                 <p class="text-gray-500 px-2 underline whitespace-nowrap">Databáze knih</p>

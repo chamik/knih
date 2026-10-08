@@ -5,9 +5,7 @@ title: Seznam štítků
 
 {% assign tags = site.tags | sort %}
 
-<a href="/listing">
-    <p class="text-brown underline text-xl mx-4 mb-8">Seznam podle data &raquo;</p>
-</a>
+{% include listing-nav.html current="/tags/" %}
 
 <div class="my-6 md:my-0 md:float-right bg-secondary p-4 rounded-lg max-w-sm shadow-md">
     <h2 class="text-pale text-2xl font-bold mb-3">Seznam štítků</h2>

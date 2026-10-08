@@ -48,6 +48,14 @@ layout: default
                 </a>
             {% endfor %}
         </div>
+        {% if page.series %}
+        <div class="flex flex-row gap-4">
+            <p>série:</p>
+            <a href="/series/{{page.series | slugify: 'latin'}}/">
+                <p class="text-gray-500 whitespace-nowrap underline">{{page.series}}</p>
+            </a>
+        </div>
+        {% endif %}
         <p>{{page.pages}} stran</p>
         <p>Přidáno {{page.date | date: "%d. %m. %Y"}}</p>
         {% if page.dklink %}

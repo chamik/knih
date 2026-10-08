@@ -6,10 +6,9 @@ title: K přečtení
 ## Již brzy
 ### Knihy, které mám rozečtené
 
-- AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
-- Careless People --- Sarah Wynn-Williams
-- Příběh umění --- Ernst Hans Gombrich
 - 0 TU. Svazek I --- Jakub Hussar
+- Operating Systems: Three Easy Pieces --- Remzi H. A.-D., Andrea C. A.-D.
+- Introduction to Compilers and Language Design --- Douglas Thain
 
 ## Backlog
 ### Knihy, které už mám, jen jsem se k nim ještě nedostal
@@ -24,6 +23,12 @@ title: K přečtení
 - Czechoslayvakia --- Polách Jakub
 - Etika --- Simon Blackburn
 - Light Blue Filter --- Václav Kopecký
+
+## Prozatím odloženo
+### Knihy rozečtené, které jsem z nějakého důvodu odložil a chci se k ním vrátit
+- AI umění: Strojové vize a pokřivené sny --- Joanna Zylinska
+- Careless People --- Sarah Wynn-Williams
+- Příběh umění --- Ernst Hans Gombrich
 
 ## Wishlist
 ### Knihy, které bych si někdy rád přečetl
@@ -49,3 +54,6 @@ title: K přečtení
 - Svědectví o životě v KLDR 2 --- Nina Špitálníková
 - Soukromá vichřice --- Vladimír Páral
 - Thunder Below! --- Eugene B. Fluckey
+- 0 TU. Svazek II --- Jakub Hussar
+- Tom's Crossing --- Mark Z. Danielewski
+

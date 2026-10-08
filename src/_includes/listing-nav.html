@@ -1,0 +1,13 @@
+<nav class="flex flex-row flex-wrap items-baseline gap-x-3 text-lg text-gray-500 mb-6">
+    <span>Seřadit podle:</span>
+    {% assign views = "data|/listing/,štítků|/tags/,sérií|/listing/series/" | split: "," %}
+    {% for view in views %}
+        {% assign v = view | split: "|" %}
+        {% if v[1] == include.current %}
+            <span class="text-pale border-b-2 border-brown">{{ v[0] }}</span>
+        {% else %}
+            <a href="{{ v[1] }}" class="hover:text-brown hover:underline underline-offset-4">{{ v[0] }}</a>
+        {% endif %}
+        {% unless forloop.last %}<span class="text-dark-gray">·</span>{% endunless %}
+    {% endfor %}
+</nav>

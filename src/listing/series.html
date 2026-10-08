@@ -1,0 +1,21 @@
+---
+layout: default
+title: Seznam sérií
+permalink: /listing/series/
+---
+
+{% assign series = site.series | sort: "series" %}
+
+{% include listing-nav.html current="/listing/series/" %}
+
+<ol>
+{% for s in series %}
+    {% assign posts = site.posts | where: "series", s.series %}
+    <li class="flex items-baseline gap-3 text-xl py-1">
+        <a href="{{s.url}}" class="text-brown font-semibold underline underline-offset-4">{{s.series}}</a>
+        <span class="text-pale-brown whitespace-nowrap">{{s.bookauthor}}</span>
+        <span class="flex-1 border-b-2 border-dotted border-dark-gray"></span>
+        <span class="text-gray-500 text-base whitespace-nowrap">{{posts | size}} {% if posts.size == 1 %}kniha{% elsif posts.size < 5 %}knihy{% else %}knih{% endif %}</span>
+    </li>
+{% endfor %}
+</ol>

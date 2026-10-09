@@ -1,6 +1,6 @@
 <nav class="flex flex-row flex-wrap items-baseline gap-x-3 text-lg text-gray-500 mb-6">
     <span>Seřadit podle:</span>
-    {% assign views = "data|/listing/,štítků|/tags/,sérií|/listing/series/" | split: "," %}
+    {% assign views = "data|/listing/,štítků|/listing/tags/,sérií|/listing/series/,autorů|/listing/authors/" | split: "," %}
     {% for view in views %}
         {% assign v = view | split: "|" %}
         {% if v[1] == include.current %}

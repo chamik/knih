@@ -1,0 +1,36 @@
+---
+layout: default
+title: Seznam autorů
+permalink: /listing/authors/
+---
+
+{% assign byAuthor = site.posts | group_by_exp: "post", "post.bookauthor | strip" %}
+
+{% assign keys = "" | split: "" %}
+{% for author in byAuthor %}
+    {% assign surname = author.name | split: "," | first | split: " " | last | slugify: "latin" %}
+    {% capture key %}{{ surname }}|{{ author.name }}{% endcapture %}
+    {% assign keys = keys | push: key %}
+{% endfor %}
+{% assign keys = keys | sort %}
+{% assign byLetter = keys | group_by_exp: "key", "key | slice: 0 | upcase" %}
+
+{% include listing-nav.html current="/listing/authors/" %}
+
+<div class="waterfall -ml-8">
+{% for letter in byLetter %}
+<div class="mx-8 py-2 w-[calc(100%-4rem)] md:w-5/12">
+    <h2 class="text-5xl font-bold text-light-brown mb-4">{{ letter.name }}</h2>
+    {% for key in letter.items %}
+        {% assign name = key | split: "|" | last %}
+        {% assign author = byAuthor | where: "name", name | first %}
+        <h3 class="text-base font-bold text-pale-brown mb-1">{{ name }}</h3>
+        <div class="pb-6">
+            {% for post in author.items %}
+                <p class="text-xl text-pale"><a href="{{post.url}}" class="text-brown hover:underline font-semibold">{{post.title}}</a></p>
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>
+{% endfor %}
+</div>

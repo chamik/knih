@@ -9,7 +9,7 @@
 <meta itemprop="description" name="description"
     content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 
-<script src="/scripts/waterfall.min.js"></script>
+<script defer src="{{ "/scripts/waterfall.js" | relative_url }}"></script>
 
 <script defer data-domain="knih.chamik.eu" src="https://plausible.chamik.eu/js/plausible.js"></script>
 

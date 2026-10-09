@@ -8,9 +8,9 @@ title: Seznam knih
 {% include listing-nav.html current="/listing/" %}
 
 
-<div class="waterfall -ml-12">
+<div class="waterfall -ml-8">
 {% for year in byYear %}
-<div class="mx-8 py-6 md:w-5/12">
+<div class="mx-8 py-6 w-[calc(100%-4rem)] md:w-5/12">
     <h2 class="text-5xl font-bold text-light-brown mb-4">{{ year.name }}</h2>
     {% assign byMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
     {% for month in byMonth %}
@@ -41,13 +41,3 @@ title: Seznam knih
 </div>
 {% endfor %}
 </div>
-
-<script>
-    window.addEventListener('resize', (event) => waterfall('.waterfall'));
-
-    // For some reason, this has to be called twice to work on load? idk i'm confused
-    window.addEventListener('load', (event) => {
-        waterfall('.waterfall');
-        waterfall('.waterfall');
-    });
-</script>

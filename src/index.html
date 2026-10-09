@@ -21,7 +21,7 @@ title: Kubíkovo
             {{post.content}}
         </div>
         <div class="flex flex-row flex-wrap mt-1">
-            <a href="/tags#{{post.tags.first}}">
+            <a href="/listing/tags/#{{post.tags.first}}">
                 <p class="text-gray-500 px-1 -ml-1 whitespace-nowrap underline">{{post.tags.first}}</p>
             </a>
             <p class="text-gray-500 px-2 whitespace-nowrap">{{post.pages}} stran</p>
@@ -42,13 +42,3 @@ title: Kubíkovo
 
 <!-- <hr class="border-dark-gray my-5"> -->
 <p class="text-center text-lg my-5"><a href="/listing" class="text-pale underline">Seznam četby &raquo;</a></p>
-
-<script>
-    window.addEventListener('resize', (event) => waterfall('.waterfall'));
-
-    // For some reason, this has to be called twice to work on load? idk i'm confused
-    window.addEventListener('load', (event) => {
-        waterfall('.waterfall');
-        waterfall('.waterfall');
-    });
-</script>
